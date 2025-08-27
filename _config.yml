@@ -13,15 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Firetools
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+  A collection of open-source tools that make fire simulation easier, faster, and more accessible.
+  For fire safety engineers, firefighters, researchers, and students,
+  these projects help you model, study, and understand fire dynamics—without barriers
+  and with the power of open collaboration.
+twitter_username: false
+github_username: firetools
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
@@ -59,8 +60,8 @@ plugins:
 
 author:
   name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/firetools-logo_256.png"
+  bio    : "A collection of open-source tools for fire simulation."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
