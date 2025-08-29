@@ -1,9 +1,17 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  # - title: "Posts"
+  #   url: /posts/
+  # - title: "Categories"
+  #   url: /categories/
+  # - title: "Tags"
+  #   url: /tags/
+  - title: "BFDS"
+    url: /bfds/
+  - title: "qgis2fds"
+    url: /qgis2fds/
+  - title: "Syntax"
+    url: /syntax/
+  - title: "Other"
+    url: /other/
   - title: "About"
     url: /about/
