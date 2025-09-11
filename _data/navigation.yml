@@ -11,7 +11,7 @@ main:
     url: /qgis2fds/
   - title: "Syntax"
     url: /syntax/
-  - title: "Other"
-    url: /other/
+  #- title: "Other"
+  #  url: /other/
   - title: "About"
     url: /about/

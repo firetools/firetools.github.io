@@ -32,3 +32,7 @@ feature_row:
 ---
 
 {% include feature_row %}
+
+Have another open-source project to suggest for this page?
+We’d love to hear from you—please [reach out](https://github.com/orgs/firetools/discussions).
+{: .notice--info}
