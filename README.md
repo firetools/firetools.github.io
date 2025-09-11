@@ -1,5 +1,9 @@
 # Firetools website
 
+This is the Firetools project website repository.
+
+## How was it made?
+
 This website was generated from the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes),
 [configured as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
 
