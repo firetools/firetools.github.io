@@ -1,6 +1,8 @@
-# Firetools website
+# **Firetools** website repository
 
 This is the Firetools project website repository.
+
+Visit the [website](https://firetools.org/) for further info.
 
 ## How was it made?
 

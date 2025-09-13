@@ -19,10 +19,12 @@ Here is a list of common text editors and the links to their **syntax highlighte
 <!-- <div markdown="1" style="font-size:200%">
 </div> -->
 
-| <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i>  | [**VS Code**](https://code.visualstudio.com/) |  <i class="fa-solid fa-link"></i> [fds-extension-vscode](https://github.com/openbcl/fds-extension-vscode) |
-| <i class="fa-brands fa-windows"></i> | [**Notepad++**](https://notepad-plus-plus.org/) | <i class="fa-solid fa-link"></i> [notepad-plus-plus-fds](https://github.com/firetools/notepad-plus-plus-fds) |
-| <i class="fa-brands fa-apple"></i> | [**Sublime text**](https://www.sublimetext.com/) | <i class="fa-solid fa-link"></i> [SublimeFDS](https://github.com/rmcdermo/SublimeFDS) | 
-| <i class="fa-brands fa-linux"></i> | [**Gnome Text Editor**](https://flathub.org/apps/org.gnome.TextEditor) | <i class="fa-solid fa-link"></i> [gedit-fds](https://github.com/firetools/gedit-fds) |
+| <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i>  | [**VS Code**](https://code.visualstudio.com/) |  <i class="fa-solid fa-link"></i> [fds-extension-vscode](https://github.com/openbcl/fds-extension-vscode) | <i class="fa-solid fa-user"></i> Brandschutz Consult Leipzig |
+| <i class="fa-brands fa-windows"></i> | [**Notepad++**](https://notepad-plus-plus.org/) | <i class="fa-solid fa-link"></i> [notepad-plus-plus-fds](https://github.com/firetools/notepad-plus-plus-fds) | <i class="fa-solid fa-user"></i> Emanuele Gissi |
+| <i class="fa-brands fa-apple"></i> | [**Sublime text**](https://www.sublimetext.com/) | <i class="fa-solid fa-link"></i> [SublimeFDS](https://github.com/rmcdermo/SublimeFDS) | <i class="fa-solid fa-user"></i> Randy McDermott |
+| <i class="fa-brands fa-linux"></i> | [**Gnome Text Editor**](https://flathub.org/apps/org.gnome.TextEditor) | <i class="fa-solid fa-link"></i> [gedit-fds](https://github.com/firetools/gedit-fds) | <i class="fa-solid fa-user"></i> Emanuele Gissi |
+| <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i>  | [**Vim**](https://www.vim.org/) |  <i class="fa-solid fa-link"></i> [FDS-VIM-Syntax](https://github.com/uporersith/FDS-VIM-Syntax) | 
+<i class="fa-solid fa-user"></i> Andrew Louie |
 {: style="font-size: 100%" }
 
 Find the installation instructions by following the provided links.
