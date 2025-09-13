@@ -25,7 +25,7 @@ Here is a list of common text editors and the links to their **syntax highlighte
 | <i class="fa-brands fa-linux"></i> | [**Gnome Text Editor**](https://flathub.org/apps/org.gnome.TextEditor) | <i class="fa-solid fa-link"></i> [gedit-fds](https://github.com/firetools/gedit-fds) | <i class="fa-solid fa-user"></i> Emanuele Gissi |
 | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i>  | [**Vim**](https://www.vim.org/) |  <i class="fa-solid fa-link"></i> [FDS-VIM-Syntax](https://github.com/uporersith/FDS-VIM-Syntax) | 
 <i class="fa-solid fa-user"></i> Andrew Louie |
-{: style="font-size: 100%" }
+{: style="font-size: 80%" }
 
 Find the installation instructions by following the provided links.
 
